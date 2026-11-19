@@ -1,5 +1,5 @@
 # https://github.com/Ponaldo/lab11-PO-JN
-# Partner 1: <partner's name>
+# Partner 1: Purab Ojha
 # Partner 2: José Borges da Cruz Neto
 import unittest
 from calculator import *
